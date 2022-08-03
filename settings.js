@@ -13,9 +13,9 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
-global.autobio = true 
-global.userRegister = true 
+global.autoread = true
+global.autobio = false
+global.userRegister = true
 
 //language
 //Available in indonesia , english & spanyol 
@@ -25,29 +25,29 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "DuduL-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ SontoL-Fcོ ×፝֟͜×" //nama kalian
+global.myweb ="https://awogawog.000webhostapp.com" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/attahalilintar" //bebas asal jan hapus
+global.myweb2 = "https://google.com" //bebas
+global.email = "sujinemahoy@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["622150996855","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = [] //premium user
+global.owner = ["628888430815","6283171382342", "6282120596989"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "628888430815" // nomor wa kalian
+global.ownernomerr = "+62 (888) 8430-815" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Ibel Estianti Agnannisa' //sticker wm ubah
+global.author = 'IG : @ibelmelon\nFB : Ibel Melon\nTE : @ibelmelon\nWA : 0821-2059-6989' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 5
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
@@ -71,7 +71,7 @@ global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.sp = '✏'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
